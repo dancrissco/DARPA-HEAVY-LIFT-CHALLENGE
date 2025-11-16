@@ -68,3 +68,59 @@ Recommended test sequence
 Ground handling & payload locking concepts
 
 Deflation & transport considerations
+
+What Is Not Included
+
+To comply with regulatory boundaries and export restrictions, the following are not open-sourced:
+
+Any proprietary motor/ESC firmware
+
+Flight-controller binaries or closed-source modules
+
+Any vendor-specific performance data that is under NDA
+
+Complete flight-ready software for autonomous operations
+
+Any material covered by export-controlled technology (ITAR/EAR)
+
+All open materials here are intentionally designed to avoid restricted content.
+
+Attribution
+
+If you use or modify HawaFrame designs:
+
+Please include:
+
+“Based on the HawaFrame Open Hardware Project – © Daria / 2024–2025 – Licensed under CERN-OHL-P + MIT.”
+
+Attribution is appreciated but not legally required under MIT (software) or OHL-P (hardware).
+
+Community Contributions
+
+Contributions are welcome in the form of:
+
+CAD improvements
+
+Alternative corner pod designs
+
+Inflatable/soft-structure insights
+
+High-power electric propulsion data
+
+Flight simulation models
+
+Assembly/test photos
+
+Documentation improvements
+
+Please submit via GitHub Pull Request or open an Issue.
+
+Disclaimer
+
+This is experimental hardware intended for research and prototyping.
+Use responsibly. Follow all local regulations, airspace rules, and safety practices when constructing or flying any aircraft derived from these designs.
+
+Acknowledgement
+
+HawaFrame embodies the spirit of open, collaborative aerospace engineering.
+Thank you for helping push the boundaries of lightweight VTOL design.
